@@ -1,11 +1,9 @@
 theme: minima
 title: Chinese American Parent Association of Loudoun County
-description: Welcome to CAPA Loudoun
-google_analytics: 260127992
-# header_pages:
-#  - index.md
-#  - board_members.md
-#  - news.md
-#  - getting_involved.md
-#  - membership.md
-#  - volunteers.md
+header_pages:
+ - index.md
+ - board_members.md
+ - news.md
+ - getting_involved.md
+ - membership.md
+ - volunteers.md
