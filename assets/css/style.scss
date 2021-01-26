@@ -1,11 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-modernist";
 
-$large-breakpoint: 90em !default;
-
-body {
+html {
     max-width: 90rem;
     padding: 2rem 6rem;
     margin: 0 auto;
