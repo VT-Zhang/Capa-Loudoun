@@ -1,10 +1,8 @@
-## Welcome to CAPA Loudoun
-
-### Vision
+## Vision
 
 To empower and unite Chinese and other immigrants with similar cultural background in Loudoun County by advancing and advocating for their needs, concerns and civic rights in education, promoting greater community engagement, and supporting integration into the larger community.
 
-### Mission
+# Mission
 
 - Voicing for Chinese community in Loudoun county, particularly in educational activities.
 - Forge a consciousness and a group identity for Chinese and Asian Pacific American.
